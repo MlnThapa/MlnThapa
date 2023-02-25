@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📄 Know about my experiences [https://mlnthapa.github.io/Profile-website/)
+- 📄 Know about my experiences [https://mlnthapa.github.io/Profile-website/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
